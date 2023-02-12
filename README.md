@@ -1,5 +1,6 @@
 This is a WordPress plugin made using chatGPT.
-The shortcode displays the top three headings (H2) in order, side by side
-Scrolling past the installed headings, the headings are fixed at the top of the screen.
-It is created with Vanilla JS.
-I am an amateur programmer so I have no security measures in place. scroll-heading-pro
+The shortcode displays a BOX and allows you to display various text inside the BOX.
+The BOX can be managed by ID.
+When scrolling past the installed BOX, the BOX is fixed at the top of the screen.
+It is created with vanilla JS.
+I have done very little programming, so I have not taken any security measures.
