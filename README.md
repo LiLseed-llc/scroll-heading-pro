@@ -1,4 +1,4 @@
-This is a WordPress plugin made using chatGPT.
+This is a WordPress plugin made using ChatGPT.
 The shortcode displays a BOX and allows you to display various text inside the BOX.
 The BOX can be managed by ID.
 When scrolling past the installed BOX, the BOX is fixed at the top of the screen.
